@@ -1,0 +1,7 @@
+# Working tree where the ZIP is extracted and built (contains node_modules, lib, dist)
+extracted/
+
+# Install artifacts
+lefthook.yml
+node_modules/
+.pnpm-store/
